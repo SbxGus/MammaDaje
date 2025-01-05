@@ -40,7 +40,7 @@
                 "ips4_member_id": "4030059",
                 "ips4_login_key": "215b0f7f8e2b358f316a233bdc674928"
                 },
-            "enabled":"1"
+            "enabled":"0"
         },
         "Guardaserie":{
             "domain":"academy",
